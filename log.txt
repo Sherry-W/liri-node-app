@@ -1,39 +1,29 @@
 do-what-it-says: 
-spotify-this-song: "My Heart Will Go On"
+spotify-this-song: I Want it That Way
 do-what-it-says: 
-my-tweets: sfchronicle
+movie-this: Big Hero 6
 do-what-it-says: 
-movie-this: "Incredibles 2"
+spotify-this-song: My Heart Will Go On
+do-what-it-says: 
+spotify-this-song: My Heart Will Go On
+do-what-it-says: 
+spotify-this-song: Love You Like a Love Song
+do-what-it-says: 
+movie-this: Hotel Transylvania 3: Summer Vacation
+do-what-it-says: 
+movie-this: Hotel Transylvania 3: Summer Vacation
 do-what-it-says: 
 my-tweets: UCBerkeleyExt
 do-what-it-says: 
-spotify-this-song: "I Want it That Way"
-do-what-it-says: 
-spotify-this-song: "My Heart Will Go On"
-do-what-it-says: 
-spotify-this-song: "I Want it That Way"
-do-what-it-says: 
-movie-this: "Big Hero 6"
-do-what-it-says: 
-movie-this: "Incredibles 2"
-do-what-it-says: 
-my-tweets: sfchronicle
-do-what-it-says: 
-spotify-this-song: "I Want it That Way"
-do-what-it-says: 
-spotify-this-song: "I Want it That Way"
-do-what-it-says: 
 my-tweets: NBCNews
 do-what-it-says: 
-spotify-this-song: "My Heart Will Go On"
+movie-this: Incredibles 2
+do-what-it-says: 
+spotify-this-song: Love You Like a Love Song
 do-what-it-says: 
 my-tweets: NBCNews
-do-what-it-says: 
-spotify-this-song: "Love You Like a Love Song"
 my-tweets: SherryW1219
-my-tweets: SFGate
-spotify-this-song: ainy
-spotify-this-song: all time low
-spotify-this-song: glad you came
 movie-this: inside out
-movie-this: spy
+spotify-this-song: ainy
+spotify-this-song: SHE
+spotify-this-song: SHE coverage

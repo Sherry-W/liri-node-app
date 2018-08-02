@@ -30,7 +30,7 @@ if (command == "movie-this" || command == "my-tweets" || command == "spotify-thi
 }
 
 //Do what it says ======================================================
-function doWhatItSays(funtionName) {
+function doWhatItSays() {
     fs.readFile("random.txt", "utf8", function(error, data) {
 
     if (error) {
@@ -98,7 +98,7 @@ function doWhatItSays(funtionName) {
             // console.log(JSON.stringify(data, null, 2));
             // console.log(data.tracks.items[0]); 
 
-            console.log("\nTop 5 Matched: " + song + "\n");
+            console.log("\nTop 5 Matched: '" + song + "'\n");
 
             for (var i = 0; i < 5; i++) {
                 console.log("===============    " + [i + 1] + "    ===============");
@@ -128,7 +128,7 @@ function doWhatItSays(funtionName) {
             if (!error) {
                 // console.log(tweets);
                 console.log("================================================================");
-                console.log("\nHere are some of the recent tweets of " + screenName + ": \n");
+                console.log("\nHere are some of the recent tweets of: '" + screenName + "' \n");
                 console.log("================================================================");
 
                 for (var i = 0; i < tweets.length; i++)
@@ -155,7 +155,7 @@ function doWhatItSays(funtionName) {
                 if (movieName != "") {
                     // console.log(JSON.parse(body));
                     console.log("=======================================================");
-                    console.log("\nHere's the result for " + movieName + ": \n");
+                    console.log("\nHere's the result for: '" + movieName + "' \n");
                     console.log("=======================================================");
                     console.log("Title: " + JSON.parse(body).Title);
                     console.log("Year: " + JSON.parse(body).Year);
